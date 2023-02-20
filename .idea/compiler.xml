@@ -6,8 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ObektnoOrientirovannoeProgramirovanie2" />
+        <module name="SistemaSborkiMaven" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ObektnoOrientirovannoeProgramirovanie2" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>
